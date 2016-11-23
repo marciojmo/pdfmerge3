@@ -1,0 +1,1 @@
+from .pdfmerge3 import merge, main
